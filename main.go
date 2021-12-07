@@ -2,7 +2,7 @@ package main
 
 //Lukas Phangureh
 //Using the library github.com/patrikeh/go-deep
-//A training of a neural network for three input XOR, using the sample code for the
+//A training of a neural network for three input XOR, modifying the sample code provided by the library
 
 import (
 	"fmt"
